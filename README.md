@@ -7,3 +7,29 @@
 ●It covers a broad overview of the airline management. 
 
 ●It provides some amount of automation in airlines management and helps airline system in making their business more efficient.
+
+# Motivation
+This project was developed to practice my Java skills.
+
+# Hardware Requirements
+- Hardware Specification:- Processor Intel Pentium V or higher
+- Clock Speed:- 1.7 GHz or more
+- System Bus:- 64 bits
+- Monitor:- LCD Monitor
+- Keyboard:- Standard Keyboard
+- Mouse:- Compatible mouse or Touchpad
+  
+# Software Requirements
+- Operating System:- Windows 10
+- Java Development Kit (JDK) 17 or higher
+- Integrated Development Environment (IDE) such as Eclipse / NetBeans
+- Database:- MySQL
+
+# Detailed Description
+# Login:
+
+
+
+
+
+
