@@ -41,6 +41,11 @@ you will be welcomed by appropriate messeage in right upper corner.The airline r
 The Airline system menu in a airline management system provides access to various operations of an airline.
 This system involves the flight information,customer details,journey details and payment details.
 
+![Flight_info](https://github.com/user-attachments/assets/29989b0d-8ad6-41ad-afae-de35a540f9ec)
+![Add_customer_details](https://github.com/user-attachments/assets/16e97061-be31-4b03-b073-a7ae7a737f10)
+![Journey_details](https://github.com/user-attachments/assets/6c109de5-2b69-4b62-a0f9-7353a416ea02)
+![Payment_details](https://github.com/user-attachments/assets/d2e0574e-f97a-4b81-9f88-b4a0fa18f3dc)
+![Cancellation](https://github.com/user-attachments/assets/e448ce90-4b80-414a-bf54-10e6ffd82105)
 
 
 
