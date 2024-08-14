@@ -30,7 +30,10 @@ This project was developed to practice my Java skills.
 The application starts with Login page. You have to be registered user to use the program.
 If credentails entered are not correct then you will be informed about that fact i.e.invalid login.
 
+![Login](https://github.com/user-attachments/assets/cef7d361-369c-403a-b39e-e2bc631a9a81)
 
+# After successful login :
+you will be welcomed by appropriate messeage in right upper corner.The airline reservation management system window shows up. It contains two menus first one AIRLINE SYSTEM and second one is Logout.
 
 
 
