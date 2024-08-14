@@ -35,7 +35,11 @@ If credentails entered are not correct then you will be informed about that fact
 # After successful login :
 you will be welcomed by appropriate messeage in right upper corner.The airline reservation management system window shows up. It contains two menus first one AIRLINE SYSTEM and second one is Logout.
 
+![Mainpage](https://github.com/user-attachments/assets/08009d1f-f6f0-4a2b-a2e6-ab334a0d48b5)
 
+# First Menu- AIRLINE SYSTEM :
+The Airline system menu in a airline management system provides access to various operations of an airline.
+This system involves the flight information,customer details,journey details and payment details.
 
 
 
